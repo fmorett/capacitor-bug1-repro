@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.app",
+  "appName": "bug-reproduction",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true
+    }
+  },
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": ["*.ngrok-free.app"]
+  }
+}
