@@ -9,6 +9,7 @@
   },
   "server": {
     "androidScheme": "https",
-    "allowNavigation": ["*.ngrok-free.app"]
+    "allowNavigation": ["*.ngrok-free.app"],
+    "allowBridgeAccess": ["*.ngrok-free.app"]
   }
 }

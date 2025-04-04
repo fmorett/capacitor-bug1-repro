@@ -16,6 +16,7 @@
     "@capacitor/android": "^7.2.0",
     "@capacitor/camera": "latest",
     "@capacitor/core": "latest",
+    "@capacitor/ios": "^7.2.0",
     "@capacitor/splash-screen": "latest",
     "ngrok": "^5.0.0-beta.2"
   },
